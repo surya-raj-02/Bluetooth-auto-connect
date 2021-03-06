@@ -1,4 +1,7 @@
 # Bluetooth-auto-connect
+
+## Note: replace XX:XX:XX:XX:XX:XX in code with the mac address of your bluetooth device
+
 Shell script to automatically connect any Bluetooth device to your linux machine 
 
 first run:
