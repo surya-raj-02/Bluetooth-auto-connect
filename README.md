@@ -2,7 +2,7 @@
 
 ## Note: replace XX:XX:XX:XX:XX:XX in code with the mac address of your bluetooth device
 
-Shell script to automatically connect any Bluetooth device to your linux machine 
+Shell script to automatically connect any Bluetooth device to your linux machine using a shortcut, and disconnect, and switch off bluetooth on the same shortcut press.
 
 first run:
 `hcitool dev`
